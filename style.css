@@ -1,0 +1,7 @@
+#top-level-buttons.ytd-menu-renderer ytd-toggle-button-renderer:nth-child(2) {
+  display: none !important;
+}
+
+#sentiment {
+  display: none !important;
+}
